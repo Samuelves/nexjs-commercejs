@@ -1,0 +1,19 @@
+{
+  "name": "next-commerce",
+  "version": "1.0.0",
+  "description": "NextJs Commerce",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Ives Samuel",
+  "license": "ISC",
+  "dependencies": {
+    "@chec/commerce.js": "^2.3.1",
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
